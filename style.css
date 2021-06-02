@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* main section*/
+.text{
+   margin: 6rem 6rem;
+ }
+.text h1{
+    color: #0F4CF2;
+    padding-bottom: 1rem;
+    font-size: 259%;
+ }
+.text p{
+    color: rgb(98, 98, 209);
+    padding-top: .5rem;
+    font-size: 105%;
+    text-align: center;
+    margin-right: -11.5rem;
+}
+ .images-sec{
+  width: 78%;
+}
+.my-btn{
+  margin-top: 22%;
+  margin-left: 60%;
+}
+.mystyle{
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    height: 47px;
+    width: 138px;
+    border-color: #0a58ca;
+    border-width: 2px;
+    color: #0a58ca;
+}
+ 
